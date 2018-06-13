@@ -1,0 +1,60 @@
+﻿+-------------------------------+
+|Relatório - FrontEnd Provisório|
++-------------------------------+
+
+-> Nome do Produto: Smart Lair
+
+-> Logo: Silhueta de uma casa com o símbolo de Wi-Fi em seu interior
+
+-> Ferramentas utilizadas: Android Studio e Java
+
+->No dia 11 de abril de 2018, foi feita uma reunião para decidir-se como seria o aplicativo (quantas páginas, o que 
+cada uma faria e qual seria o layout delas) e chegou-se à estrutura descrita abaixo:
+
+-> Páginas Disponíveis do aplicativo
+    - Principal
+    - Cadastro
+    - Esqueceu sua senha?
+    - Ambientes disponíveis
+    - Dispositivos disponíveis
+
+-> Página: Principal
+    - No topo, uma Logo do aplicativo
+    - No meio, dados de E-mail e senha
+    - Na parte inferior, opções de:
+        - Entrar
+        - Esqueceu sua senha?
+        - Cadastrar-se
+
+-> Página: Cadastro
+    - No topo, o nome da marca
+    - No corpo, dados de E-mail, senha e confirmação de senha
+    - Em seguida, um botão de cadastrar as informações
+
+
+-> Página: Esqueceu sua senha?
+    - No topo, o nome da marca
+    - No corpo, dados de E-mail
+    - Em seguida, botão de envio para recuperar a senha
+
+-> Página: Ambientes Disponíveis
+    - No topo, o nome da marca
+    - No corpo, ícones de ambientes a serem escolhidos
+    - Nesta página será possível o usuário definir ambientes nos quais existem dispositivos controláveis:
+        - Sala
+        - Cozinha
+        - Quartos
+        - Garagem
+        - etc
+    - Também será possível criar e editar modos pre-definidos relacionados à casa inteira:
+        - Segurança
+        - Filme
+        - etc
+
+-> Página: Dispositivos Disponíveis
+    - No topo, o nome da marca
+    - No corpo, ícones de dispositivos a serem manipulados
+    - Nesta página será possível o usuário interagir com os dispositivos disponíveis no seu ambiente
+    - Quando se clicar no ícone, aparecerá uma janela na mesma página com as opções:
+        - Ligar/Desligar
+        - Ver consumo

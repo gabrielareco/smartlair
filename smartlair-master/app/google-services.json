@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "424162167690",
+    "firebase_url": "https://smartlair-a64f4.firebaseio.com",
+    "project_id": "smartlair-a64f4",
+    "storage_bucket": "smartlair-a64f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424162167690:android:421ef865e7c4a181",
+        "android_client_info": {
+          "package_name": "com.example.gabri.smartlair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424162167690-9uu831ris79s4sh6kjlpgu0iu54a75am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gabri.smartlair",
+            "certificate_hash": "dd5845d5ba8b03d303102654d3649418a741d000"
+          }
+        },
+        {
+          "client_id": "424162167690-lnloetv9nckc9kjpu8ud5aj66leahimu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "424162167690-lnloetv9nckc9kjpu8ud5aj66leahimu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_I45J1B7_pYwepRtGetxrGJKToe8tqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424162167690-lnloetv9nckc9kjpu8ud5aj66leahimu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
